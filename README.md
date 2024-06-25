@@ -2,7 +2,7 @@
 
 This repo is for our NeurIPS 2023 paper `DiffBP` for molecule generation.
 
-[[arXiv]]([https://arxiv.org/abs/2306.13769](https://arxiv.org/abs/2211.11214)) &nbsp;
+[[arXiv]](https://arxiv.org/abs/2211.11214) &nbsp;
 
 
 **Code**: Code is avaiable in [[CBGBench]](https://github.com/EDAPINENUT/CBGBench/tree/master). 
