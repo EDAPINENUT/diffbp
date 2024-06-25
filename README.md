@@ -16,7 +16,7 @@ Generating molecules that bind to specific proteins is an important but challeng
 ![teaser](https://raw.githubusercontent.com/EDAPINENUT/diffbp/main/dynamics.png)
 
 ## Code 
-D3FG codes have been released to [[CBGBench]](https://github.com/EDAPINENUT/CBGBench/tree/master).
+DiffBP codes have been released to [[CBGBench]](https://github.com/EDAPINENUT/CBGBench/tree/master).
 
 
 ## Citation
